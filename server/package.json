@@ -1,0 +1,17 @@
+{
+  "name": "project-b",
+  "version": "1.0.0",
+  "description": "take screenshots and convert website into pdf",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Ujwal Panday",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
